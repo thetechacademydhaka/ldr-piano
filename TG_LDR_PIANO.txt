@@ -1,0 +1,19 @@
+TG for LDR PIANO:
+CODE: goo.gl/YE8SrG
+                             Ldr keypress code:
+1.	Open notepad, and test the program and print a different letter
+2.	Change the values a and b to a higher range other than that given now
+3.	Make it print two letters at different intensities of light
+4.	Do the same for generating three letters: a, b and c.
+5.	Setup another ldr circuit and make it print different letters when light is shined on each one, (LDR 1 does keypress X, LDR 2 does keypress Y)
+6.	Make a circuit and program which generates at least 4 different letters with the two ldr circuits
+7.	Try out your controller in any online game which you can play with W A S D keys.
+
+
+
+                               Ldr Piano code : 
+1.	Change the diff to another value and figure out what happens.
+2.	Change the key presses to different letters in the keyboard to generate different tones in the piano.
+
+
+
